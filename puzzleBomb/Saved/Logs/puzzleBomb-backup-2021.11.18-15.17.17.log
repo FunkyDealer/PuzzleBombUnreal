@@ -1,0 +1,1567 @@
+﻿Log file open, 11/18/21 14:40:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: puzzleBomb
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.418712
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=FunkyDealer255 -epicuserid=34536b833d9c4be3ab26ae32d30b4252 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:744][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.18-14.40.49:751][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.18-14.40.49:752][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.18-14.40.49:752][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.18-14.40.49:752][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.18-14.40.49:752][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.18-14.40.49:752][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.18-14.40.49:753][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Scalability.ini]
+[2021.11.18-14.40.49:753][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.18-14.40.49:754][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.18-14.40.49:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Engine.ini]
+[2021.11.18-14.40.49:754][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/puzzleBomb/Saved/Config/Windows/Editor.ini]
+[2021.11.18-14.40.49:754][  0]LogInit: Computer: PEDROALMEIDAPC
+[2021.11.18-14.40.49:754][  0]LogInit: User: 1269389
+[2021.11.18-14.40.49:754][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.18-14.40.49:754][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.18-14.40.49:754][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.18-14.40.49:754][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.18-14.40.49:754][  0]LogMemory: Process Physical Memory: 144.11 MB used, 144.11 MB peak
+[2021.11.18-14.40.49:754][  0]LogMemory: Process Virtual Memory: 128.48 MB used, 128.48 MB peak
+[2021.11.18-14.40.49:754][  0]LogMemory: Physical Memory: 5462.98 MB used,  10804.61 MB free, 16267.60 MB total
+[2021.11.18-14.40.49:754][  0]LogMemory: Virtual Memory: 134206264.00 MB used,  11465.62 MB free, 134217728.00 MB total
+[2021.11.18-14.40.49:760][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.18-14.40.49:786][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.18-14.40.49:786][  0]LogInit: Using OS detected language (pt-PT).
+[2021.11.18-14.40.49:786][  0]LogInit: Using OS detected locale (pt-PT).
+[2021.11.18-14.40.49:790][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the language.
+[2021.11.18-14.40.49:990][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.18-14.40.50:005][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.18-14.40.50:014][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.18-14.40.50:014][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.18-14.40.50:138][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.18-14.40.50:190][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.18-14.40.50:190][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.18-14.40.50:190][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.18-14.40.50:190][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.18-14.40.50:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.11.18-14.40.50:276][  0]LogD3D11RHI:       4029/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.18-14.40.50:290][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.11.18-14.40.50:290][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     DeviceId    : 1c8d
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     SubSysId    : 118b1025
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     DedicatedVideoMemory : 4224712704 bytes
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2021.11.18-14.40.50:295][  0]LogD3D11RHI:     AdapterLuid : 0 50192
+[2021.11.18-14.40.50:304][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.18-14.40.50:304][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2021.11.18-14.40.50:304][  0]LogWindows: EnumDisplayDevices:
+[2021.11.18-14.40.50:304][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.11.18-14.40.50:305][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.18-14.40.50:305][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.11.18-14.40.50:306][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.11.18-14.40.50:306][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:   Driver Version: 388.16 (internal:23.21.13.8816, unified:388.16)
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:      Driver Date: 10-30-2017
+[2021.11.18-14.40.50:306][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     DeviceId    : 1c8d
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     SubSysId    : 118b1025
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     DedicatedVideoMemory : 4224712704 bytes
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     SharedSystemMemory : 8528906240 bytes
+[2021.11.18-14.40.50:306][  0]LogD3D11RHI:     AdapterLuid : 0 50192
+[2021.11.18-14.40.50:355][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.18-14.40.50:355][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.18-14.40.50:355][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.18-14.40.50:370][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.18-14.40.50:424][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.18-14.40.50:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.18-14.40.50:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.18-14.40.50:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.18-14.40.50:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.18-14.40.50:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.18-14.40.50:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.18-14.40.50:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.18-14.40.50:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.18-14.40.50:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.18-14.40.50:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.18-14.40.50:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.18-14.40.50:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.18-14.40.50:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.18-14.40.50:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.18-14.40.50:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.18-14.40.50:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.18-14.40.50:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.18-14.40.50:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.18-14.40.50:950][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.18-14.40.50:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.18-14.40.50:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.18-14.40.50:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.18-14.40.50:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.18-14.40.50:976][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.18-14.40.50:985][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.18-14.40.51:015][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.18-14.40.51:063][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.18-14.40.51:064][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../Unreal Projects/puzzleBomb/Intermediate/Shaders/WorkingDirectory/13120/).
+[2021.11.18-14.40.51:064][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1269389/AppData/Local/Temp/UnrealShaderWorkingDir/5FAD2B384065B2EFD98A04AF1A663F73/'.
+[2021.11.18-14.40.51:064][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.18-14.40.51:064][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.18-14.40.51:064][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.18-14.40.52:026][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/1269389/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1269389/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/puzzleBomb/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/puzzleBomb/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.18-14.40.52:101][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.18-14.40.52:121][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.18-14.40.52:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.18-14.40.52:122][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.18-14.40.52:142][  0]LogDerivedDataCache: Speed tests for C:/Users/1269389/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.18-14.40.52:142][  0]LogDerivedDataCache: Display: Performance to C:/Users/1269389/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=228.08MBs, RandomWriteSpeed=60.96MBs. Assigned SpeedClass 'Local'
+[2021.11.18-14.40.52:143][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1269389/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.18-14.40.52:143][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.18-14.40.52:143][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.18-14.40.52:202][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.18-14.40.52:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.18-14.40.52:230][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.11.18-14.40.52:527][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.18-14.40.52:527][  0]LogInit: Active device profile: [000001FE95D72800][000001FE89ED0640 49] Windows
+[2021.11.18-14.40.52:527][  0]LogInit: Profiles: [000001FE95D72800][000001FE89ED0640 49] Windows, [000001FE95D2AC00][000001FE89ECC780 49] WindowsNoEditor, [000001FE95D73200][000001FE933428C0 49] WindowsServer, [000001FE95D28F00][000001FE9334AA40 49] WindowsClient, [000001FE95D70E00][000001FE95BD4BC0 49] IOS, [000001FE95D29000][000001FE95BD8D40 49] iPadAir, [000001FE95D71300][000001FE95BDCEC0 49] iPadAir2, [000001FE96B96500][000001FE95BE5180 49] IPadPro, [000001FE96B96600][000001FE95BE11C0 49] iPadAir3, [000001FE95D70F00][000001FE86CE5340 49] iPadAir4, [000001FE96B96B00][000001FE86CE94C0 49] iPadMini2, [000001FE95D72400][000001FE86CED640 49] iPadMini3, [000001FE96B94300][000001FE86CF17C0 49] iPadMini4, [000001FE95D73500][000001FE86CF5940 49] iPadMini5, [000001FE95D59E00][000001FE86D01C00 49] iPhone6, [000001FE95D59F00][000001FE86CF80C0 49] iPodTouch6, [000001FE96B96700][000001FE86D08380 49] iPhone7, [000001FE96B95E00][000001FE86D043C0 49] iPodTouch7, [000001FE95D5A000][000001FE95BE8540 49] iPhone5S, [000001FE96B95200][000001FE95BF06C0 49] iPhone6Plus, [000001FE95D5A700][000001FE93346800 49] iPhone6S, [000001FE96B94B00][000001FE95BF8940 49] iPhone6SPlus, [000001FE95D59200][000001FE95C00A80 49] iPhone7Plus, [000001FE96B95F00][000001FE95C04BC0 49] iPhoneSE, [000001FE95D5AA00][000001FE95C2CD40 49] iPhone8, [000001FE96B95B00][000001FE95C50EC0 49] iPhone8Plus, [000001FE95D5A300][000001FE95C69040 49] iPhoneX, [000001FE96B95A00][000001FE95C6D1C0 49] iPhoneXS, [000001FE95D59A00][000001FE95C71340 49] iPhoneXSMax, [000001FE96B97100][000001FE95C754C0 49] iPhoneXR, [000001FE95D59700][000001FE95C79640 49] iPhone11, [000001FE96B96400][000001FE95C7D7C0 49] iPhone11Pro, [000001FE95D58F00][000001FE95C81940 49] iPhone11ProMax, [000001FE96B97300][000001FE95C85AC0 49] iPhoneSE2, [000001FE95D5B300][000001FE95C8C0C0 49] iPhone12Mini, [000001FE96B94F00][000001FE95C90240 49] iPhone12, [000001FE95D5A400][000001FE95C943C0 49] iPhone12Pro, [000001FE96B95300][000001FE95C9C540 49] iPhone12ProMax, [000001FE95D5B600][000001FE96CB46C0 49] iPadPro105, [000001FE96B97800][000001FE96CCE840 49] iPadPro129, [000001FE95D58C00][000001FE95C24980 49] iPadPro97, [000001FE96B95900][000001FE96CFCAC0 49] iPadPro2_129, [000001FE95D59800][000001FE96D00C00 49] iPad5, [000001FE96B95100][000001FE96D04D40 49] iPad6, [000001FE95D58B00][000001FE96D0CEC0 49] iPad7, [000001FE96B97E00][000001FE96D11040 49] iPad8, [000001FE95D5AC00][000001FE96D691C0 49] iPadPro11, [000001FE95D2AD00][000001FE96D6D340 49] iPadPro2_11, [000001FE95DB5000][000001FE96DD54C0 49] iPadPro3_129, [000001FE95D29A00][000001FE96E53640 49] iPadPro4_129, [000001FE95DB4200][000001FE96E577C0 49] AppleTV, [000001FE95D28A00][000001FE96E5B940 49] AppleTV4K, [000001FE95DB4300][000001FE96E5FAC0 49] TVOS, [000001FE95D29100][000001FE96E620C0 49] Mac, [000001FE95DB4B00][000001FE96E66240 49] MacClient, [000001FE95D2BA00][000001FE96E6A3C0 49] MacNoEditor, [000001FE95DB5100][000001FE96E6E540 49] MacServer, [000001FE95D5A900][000001FE96E726C0 49] Linux, [000001FE96B95C00][000001FE96E76840 49] LinuxAArch64, [000001FE95D5BB00][000001FE96E7A9C0 49] LinuxNoEditor, [000001FE96B94A00][000001FE96E7EB40 49] LinuxAArch64NoEditor, [000001FE95D58A00][000001FE96D08C80 49] LinuxClient, [000001FE96B96100][000001FE96E82DC0 49] LinuxAArch64Client, [000001FE95D58500][000001FE96E86F00 49] LinuxServer, [000001FE96B97200][000001FE96E8F080 49] LinuxAArch64Server, [000001FE95D5B200][000001FE96E93200 49] Android, [000001FE96B95700][000001FE96E97380 49] Android_Low, [000001FE95D59400][000001FE96E9B500 49] Android_Mid, [000001FE96B96E00][000001FE96E9F680 49] Android_High, [000001FE95D59500][000001FE96EA3800 49] Android_Default, [000001FE96B96C00][000001FE96EA7980 49] Android_Adreno4xx, [000001FE95D5B100][000001FE96EABB00 49] Android_Adreno5xx_Low, [000001FE96B94200][000001FE96EAE100 49] Android_Adreno5xx, [000001FE95D5BC00][000001FE96EB2280 49] Android_Adreno6xx, [000001FE96B95D00][000001FE96EB6400 49] Android_Adreno6xx_Vulkan, [000001FE95D58200][000001FE96EBA580 49] Android_Mali_T6xx, [000001FE96B97700][000001FE96EBE700 49] Android_Mali_T7xx, [000001FE95D5AD00][000001FE96EC2880 49] Android_Mali_T8xx, [000001FE96B95400][000001FE96EC6A00 49] Android_Mali_G71, [000001FE95DB5700][000001FE96ECAB80 49] Android_Mali_G72, [000001FE96B94400][000001FE96ECED00 49] Android_Mali_G72_Vulkan, [000001FE95DB4400][000001FE96E8AE40 49] Android_Mali_G76, [000001FE96B94900][000001FE96ED2F80 49] Android_Mali_G76_Vulkan, [000001FE95D5AF00][000001FE96ED70C0 49] Android_Mali_G77, [000001FE96B96900][000001FE96EDF240 49] Android_Mali_G77_Vulkan, [000001FE95D59D00][000001FE96EE33C0 49] Android_Mali_G78, [000001FE96B95800][000001FE96EE7540 49] Android_Mali_G78_Vulkan, [000001FE95D5B000][000001FE96EEB6C0 49] Android_Mali_G710, [000001FE96B97400][000001FE96EEF840 49] Android_Mali_G710_Vulkan, [000001FE95D59600][000001FE96EF39C0 49] Android_Vulkan_SM5, [000001FE96B96F00][000001FE96EF7B40 49] Android_PowerVR_G6xxx, [000001FE95D58600][000001FE96EFA140 49] Android_PowerVR_GT7xxx, [000001FE96B97000][000001FE96EFE2C0 49] Android_PowerVR_GE8xxx, [000001FE95D5A800][000001FE96F02440 49] Android_PowerVR_GM9xxx, [000001FE96B94500][000001FE96F065C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001FE95D59C00][000001FE96F0A740 49] Android_TegraK1, [000001FE96B97500][000001FE96F0E8C0 49] Android_Unknown_Vulkan, [000001FE95D5AE00][000001FE96F12A40 49] Lumin, [000001FE96B96200][000001FE96F16BC0 49] Lumin_Desktop, [000001FE95D59300][000001FE96F1AD40 49] HoloLens, 
+[2021.11.18-14.40.52:689][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.18-14.40.52:689][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.18-14.40.52:689][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.18-14.40.52:689][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.18-14.40.52:689][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.18-14.40.52:706][  0]LogNetVersion: puzzleBomb 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2720733573)
+[2021.11.18-14.40.53:130][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.18-14.40.53:204][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.18-14.40.53:211][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.18-14.40.53:211][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.18-14.40.53:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.18-14.40.53:622][  0]LogPython: Using Python 3.7.7
+[2021.11.18-14.40.54:164][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2DC130E94CF59763DA1AE1A12BD65AE2 | Instance: 4427E59B418FE79E1E1DCF97CB2BA751 (PEDROALMEIDAPC-13120).
+[2021.11.18-14.40.54:319][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.54:319][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.54:319][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.18-14.40.54:323][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.18-14.40.54:469][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.54:469][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.54:487][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.54:505][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.54:543][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.54:545][  0]LogUProjectInfo: Found projects:
+[2021.11.18-14.40.54:679][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.18-14.40.54:744][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.18-14.40.54:761][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.18-14.40.54:761][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.18-14.40.54:905][  0]LogCollectionManager: Loaded 0 collections in 0.000815 seconds
+[2021.11.18-14.40.54:931][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/puzzleBomb/Saved/Collections/' took 0.00s
+[2021.11.18-14.40.54:931][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/puzzleBomb/Content/Developers/1269389/Collections/' took 0.00s
+[2021.11.18-14.40.54:931][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/puzzleBomb/Content/Collections/' took 0.00s
+[2021.11.18-14.40.54:931][  0]LogOcInput: OculusInput pre-init called
+[2021.11.18-14.40.55:107][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.55:108][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.55:194][  0]LogEngine: Initializing Engine...
+[2021.11.18-14.40.55:415][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.18-14.40.55:416][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.18-14.40.55:435][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.18-14.40.55:436][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.18-14.40.55:555][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.18-14.40.55:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.18-14.40.55:579][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.18-14.40.55:583][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.18-14.40.55:584][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.18-14.40.55:584][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.18-14.40.55:584][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-14.40.55:584][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-14.40.55:584][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-14.40.55:585][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-14.40.55:585][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-14.40.55:585][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-14.40.55:585][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-14.40.55:595][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-14.40.55:595][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-14.40.56:124][  0]LogAudioMixer: Display: Using Audio Device Altifalantes (Realtek High Definition Audio(SST))
+[2021.11.18-14.40.56:125][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-14.40.56:127][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-14.40.56:127][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-14.40.56:128][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-14.40.56:128][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-14.40.56:128][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-14.40.56:129][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-14.40.56:129][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-14.40.56:129][  0]LogInit: FAudioDevice initialized.
+[2021.11.18-14.40.56:129][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.18-14.40.56:129][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.18-14.40.56:296][  0]LogDerivedDataCache: Saved boot cache 0.17s 94MB C:/Users/1269389/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.18-14.40.56:296][  0]LogInit: Texture streaming: Enabled
+[2021.11.18-14.40.56:307][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.18-14.40.56:311][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.18-14.40.56:311][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.18-14.40.56:313][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.18-14.40.56:338][  0]LogInit: Transaction tracking system initialized
+[2021.11.18-14.40.56:356][  0]BlueprintLog: New page: Editor Load
+[2021.11.18-14.40.56:417][  0]LocalizationService: Localization service is disabled
+[2021.11.18-14.40.56:441][  0]TimingProfiler: Initialize
+[2021.11.18-14.40.56:441][  0]TimingProfiler: OnSessionChanged
+[2021.11.18-14.40.56:441][  0]LoadingProfiler: Initialize
+[2021.11.18-14.40.56:441][  0]LoadingProfiler: OnSessionChanged
+[2021.11.18-14.40.56:441][  0]NetworkingProfiler: Initialize
+[2021.11.18-14.40.56:441][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.18-14.40.56:441][  0]MemoryProfiler: Initialize
+[2021.11.18-14.40.56:441][  0]MemoryProfiler: OnSessionChanged
+[2021.11.18-14.40.56:692][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.18-14.40.56:692][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.18-14.40.56:871][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/puzzleBomb/Content/' took 0.00s
+[2021.11.18-14.40.57:091][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.57:091][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.18-14.40.57:091][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.18-14.40.57:094][  0]SourceControl: Source control is disabled
+[2021.11.18-14.40.57:094][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.984
+[2021.11.18-14.40.57:094][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.18-14.40.57:094][  0]LogEditorServer: Warning: Can't find file '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/TestLevel.umap'
+[2021.11.18-14.40.57:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.18-14.40.57:094][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,1ms to complete.
+[2021.11.18-14.40.57:094][  0]LogFileHelpers: Loading map 'TestLevel' took 0.000
+[2021.11.18-14.40.57:096][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.986
+[2021.11.18-14.40.58:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.40.58:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.40.58:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.40.58:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.40.58:621][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3822 classes and 928 folders.
+[2021.11.18-14.40.58:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.18-14.40.58:885][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.18-14.40.58:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.58:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.18-14.40.58:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.58:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.18-14.40.58:899][  0]LogPakFile: OnPakFileMounted2Time == 0.013717
+[2021.11.18-14.40.58:922][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.18-14.40.58:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.58:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.18-14.40.58:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.58:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.18-14.40.58:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.18-14.40.58:997][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.18-14.40.58:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.58:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.18-14.40.58:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.58:997][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.18-14.40.58:997][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.11.18-14.40.59:042][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.18-14.40.59:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.18-14.40.59:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.18-14.40.59:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.11.18-14.40.59:058][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.18-14.40.59:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.18-14.40.59:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.18-14.40.59:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.18-14.40.59:079][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.18-14.40.59:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.18-14.40.59:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.18-14.40.59:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.18-14.40.59:125][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.18-14.40.59:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.18-14.40.59:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.18-14.40.59:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.18-14.40.59:153][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.18-14.40.59:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.18-14.40.59:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.18-14.40.59:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:205][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.18-14.40.59:205][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:205][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.18-14.40.59:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:205][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.18-14.40.59:205][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.18-14.40.59:290][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.18-14.40.59:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.18-14.40.59:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.18-14.40.59:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:377][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.18-14.40.59:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.18-14.40.59:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.18-14.40.59:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:384][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.18-14.40.59:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.18-14.40.59:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:384][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.18-14.40.59:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:391][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.18-14.40.59:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.18-14.40.59:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.18-14.40.59:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.11.18-14.40.59:396][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.18-14.40.59:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.18-14.40.59:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.18-14.40.59:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.18-14.40.59:435][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.18-14.40.59:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.18-14.40.59:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.18-14.40.59:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.18-14.40.59:523][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.18-14.40.59:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.18-14.40.59:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.18-14.40.59:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.18-14.40.59:529][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.18-14.40.59:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.18-14.40.59:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:529][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.18-14.40.59:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:537][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.18-14.40.59:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.18-14.40.59:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.18-14.40.59:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.18-14.40.59:542][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.18-14.40.59:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.18-14.40.59:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.18-14.40.59:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:553][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.18-14.40.59:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.18-14.40.59:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.18-14.40.59:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.11.18-14.40.59:584][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.18-14.40.59:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.18-14.40.59:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.18-14.40.59:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:610][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.18-14.40.59:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.18-14.40.59:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.18-14.40.59:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:617][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.18-14.40.59:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.18-14.40.59:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:617][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.18-14.40.59:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.18-14.40.59:625][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.18-14.40.59:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.18-14.40.59:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:626][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.18-14.40.59:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.18-14.40.59:633][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.18-14.40.59:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.18-14.40.59:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.18-14.40.59:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.18-14.40.59:669][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.18-14.40.59:669][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.18-14.40.59:669][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.18-14.40.59:669][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.18-14.40.59:669][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.18-14.40.59:669][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.18-14.41.01:239][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.18-14.41.01:335][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.18-14.41.01:844][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.18-14.41.01:869][  0]LogSlate: Took 0.023149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.18-14.41.01:892][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.18-14.41.02:453][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.11.18-14.41.03:003][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.18-14.41.03:003][  0]LogLoad: (Engine Initialization) Total time: 14.89 seconds
+[2021.11.18-14.41.03:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.18-14.41.03:067][  0]LogAssetRegistry: Asset discovery search completed in 10.8388 seconds
+[2021.11.18-14.41.03:072][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.18-14.41.03:119][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.18-14.41.03:356][  2]LogSlate: Took 0.061516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.18-14.42.37:666][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.18-14.42.37:705][627]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.18-14.42.40:237][627]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2021.11.18-14.42.40:255][627]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.18-14.42.40:255][627]LightingResults: New page: Lighting Build
+[2021.11.18-14.42.40:255][627]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.11.18-14.42.40:256][627]LoadErrors: New page: Loading map: Level1.umap
+[2021.11.18-14.42.40:256][627]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-14.42.40:256][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.42.40:257][627]MapCheck: New page: Map Check
+[2021.11.18-14.42.40:257][627]LightingResults: New page: Lighting Build
+[2021.11.18-14.42.40:264][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-14.42.40:294][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.18-14.42.40:295][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.11.18-14.42.40:424][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.18-14.42.40:424][627]LogAIModule: Creating AISystem for world Level1
+[2021.11.18-14.42.40:442][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.18-14.42.40:451][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.18-14.42.40:451][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2021.11.18-14.42.40:451][627]LogFileHelpers: Loading map 'Level1' took 0.197
+[2021.11.18-14.43.04:362][789]LogEditorViewport: Clicking on Actor (LMB): BP_destructible_Box_C (BP_destructible_Box)
+[2021.11.18-14.43.07:665][931]LogEditorViewport: Clicking Background
+[2021.11.18-14.43.11:897][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_destructible_Box.BP_destructible_Box
+[2021.11.18-14.43.14:099][178]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.18-14.43.15:681][178]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.18-14.43.15:918][179]LogSlate: Took 0.015768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.18-14.43.33:222][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_destructible_Box" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset" SILENT=true
+[2021.11.18-14.43.33:380][168]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_destructible_Box922AFA594404C2FC58A55FAD113F3593.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset'
+[2021.11.18-14.43.33:420][168]AssetCheck: New page: Asset Save: BP_destructible_Box
+[2021.11.18-14.43.33:420][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_destructible_Box.BP_destructible_Box
+[2021.11.18-14.44.01:110][733]LogEditorViewport: Clicking Background
+[2021.11.18-14.44.13:034][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1.Bomb1
+[2021.11.18-14.44.25:157][133]LogRenderer: Reallocating scene render targets to support 1040x664 Format 10 NumSamples 1 (Frame:1).
+[2021.11.18-14.44.33:232][600]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-14.44.33:233][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.44.35:809][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-14.45.38:233][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BombInactive.BombInactive
+[2021.11.18-14.46.58:394][ 83]BlueprintLog: New page: Compile Explosion
+[2021.11.18-14.46.58:759][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.18-14.46.59:307][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-14.46.59:338][107]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion040BE2C64AB758B7766BC2951E24DB8C.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-14.46.59:353][107]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-14.46.59:353][107]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-14.47.27:082][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/BPI_destructible.BPI_destructible
+[2021.11.18-14.48.59:544][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_destructible_Box" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset" SILENT=true
+[2021.11.18-14.48.59:550][993]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_destructible_Box228F06A848564A0BA585D5AB6C1DB245.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset'
+[2021.11.18-14.48.59:563][993]AssetCheck: New page: Asset Save: BP_destructible_Box
+[2021.11.18-14.48.59:563][993]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_destructible_Box.BP_destructible_Box
+[2021.11.18-14.49.00:754][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-14.49.00:770][ 62]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionAFE886664C9F03933330FEA94F197A20.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-14.49.00:784][ 62]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-14.49.00:784][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-14.49.01:272][ 91]BlueprintLog: New page: Compile Explosion
+[2021.11.18-14.49.01:326][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.18-14.49.03:887][236]BlueprintLog: New page: Compile Explosion
+[2021.11.18-14.49.03:941][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.11.18-14.49.04:520][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-14.49.04:535][267]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion0E32AAFA453E03CC0977068CCFC03E0A.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-14.49.04:548][267]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-14.49.04:548][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-14.49.28:245][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_destructible_Box" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset" SILENT=true
+[2021.11.18-14.49.28:251][670]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_destructible_Box20601B7548F244048E14E6A396396B24.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_destructible_Box.uasset'
+[2021.11.18-14.49.28:266][670]AssetCheck: New page: Asset Save: BP_destructible_Box
+[2021.11.18-14.49.28:266][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_destructible_Box.BP_destructible_Box
+[2021.11.18-14.49.31:507][860]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.18-14.49.31:557][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-14.49.31:568][860]PIE: New page: PIE session: Level1 (18/11/2021, 14:49:31)
+[2021.11.18-14.49.31:585][860]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.18-14.49.31:595][860]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.18-14.49.31:607][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.18-14.49.31:656][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048838s)
+[2021.11.18-14.49.31:657][860]LogAIModule: Creating AISystem for world Level1
+[2021.11.18-14.49.31:657][860]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2021.11.18-14.49.31:657][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.050483s)
+[2021.11.18-14.49.31:688][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.18-14.49.31:690][860]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-14.49.31:690][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-14.49.31:690][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-14.49.31:691][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-14.49.31:691][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-14.49.31:691][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-14.49.31:691][860]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-14.49.31:694][860]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-14.49.31:694][860]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-14.49.31:714][860]LogAudioMixer: Display: Using Audio Device Altifalantes (Realtek High Definition Audio(SST))
+[2021.11.18-14.49.31:714][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-14.49.31:714][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-14.49.31:714][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-14.49.31:715][860]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-14.49.31:715][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-14.49.31:715][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-14.49.31:716][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-14.49.31:716][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-14.49.31:716][860]LogInit: FAudioDevice initialized.
+[2021.11.18-14.49.31:716][860]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.11.18-14.49.31:778][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.49.31:778][860]LogLoad: Game class is 'Bomber_GM_C'
+[2021.11.18-14.49.31:797][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.18-14.49.31
+[2021.11.18-14.49.31:798][860]LogWorld: Bringing up level for play took: 0.003038
+[2021.11.18-14.49.31:798][860]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.11.18-14.49.31:892][860]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.11.18-14.49.32:029][860]PIE: Server logged in
+[2021.11.18-14.49.32:031][860]PIE: Play in editor total start time 0,52 seconds.
+[2021.11.18-14.49.32:277][861]LogRenderer: Reallocating scene render targets to support 1528x792 Format 10 NumSamples 1 (Frame:1).
+[2021.11.18-14.50.16:862][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.50.16:862][505]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.18-14.50.16:863][505]LogSlate: Window 'puzzleBomb Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.18-14.50.16:869][505]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-14.50.16:870][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.50.16:882][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-14.50.16:891][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.50.16:935][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-14.50.16:935][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-14.50.16:937][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-14.50.16:970][505]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2021.11.18-14.50.16:997][506]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.11.18-14.50.48:443][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Character_BP.Character_BP
+[2021.11.18-14.51.40:884][ 67]BlueprintLog: New page: Compile Character_BP
+[2021.11.18-14.51.40:967][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.11.18-14.51.41:537][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset" SILENT=true
+[2021.11.18-14.51.41:565][ 89]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Character_BP0C31DE9B49982DE8B086DD8E603A2CDB.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset'
+[2021.11.18-14.51.41:581][ 89]AssetCheck: New page: Asset Save: Character_BP
+[2021.11.18-14.51.41:581][ 89]LogContentValidation: Display: Validating Blueprint /Game/Character/Character_BP.Character_BP
+[2021.11.18-14.51.44:851][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset" SILENT=true
+[2021.11.18-14.51.44:872][280]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Character_BPD7E1E1AC4292C81D22ED83A4BE72D71D.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset'
+[2021.11.18-14.51.44:889][280]AssetCheck: New page: Asset Save: Character_BP
+[2021.11.18-14.51.44:889][280]LogContentValidation: Display: Validating Blueprint /Game/Character/Character_BP.Character_BP
+[2021.11.18-14.51.47:731][443]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.18-14.51.47:737][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-14.51.47:737][443]PIE: New page: PIE session: Level1 (18/11/2021, 14:51:47)
+[2021.11.18-14.51.47:737][443]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.18-14.51.47:770][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032603s)
+[2021.11.18-14.51.47:771][443]LogAIModule: Creating AISystem for world Level1
+[2021.11.18-14.51.47:771][443]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2021.11.18-14.51.47:771][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.034059s)
+[2021.11.18-14.51.47:812][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.11.18-14.51.47:814][443]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-14.51.47:814][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-14.51.47:815][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-14.51.47:815][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-14.51.47:815][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-14.51.47:815][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-14.51.47:815][443]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-14.51.47:818][443]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-14.51.47:818][443]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-14.51.47:834][443]LogAudioMixer: Display: Using Audio Device Altifalantes (Realtek High Definition Audio(SST))
+[2021.11.18-14.51.47:834][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-14.51.47:834][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-14.51.47:834][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-14.51.47:835][443]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-14.51.47:835][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-14.51.47:835][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-14.51.47:836][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-14.51.47:836][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-14.51.47:836][443]LogInit: FAudioDevice initialized.
+[2021.11.18-14.51.47:836][443]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.11.18-14.51.47:899][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.51.47:900][443]LogLoad: Game class is 'Bomber_GM_C'
+[2021.11.18-14.51.47:905][443]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.18-14.51.47
+[2021.11.18-14.51.47:905][443]LogWorld: Bringing up level for play took: 0.004819
+[2021.11.18-14.51.47:906][443]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.11.18-14.51.47:914][443]PIE: Server logged in
+[2021.11.18-14.51.47:916][443]PIE: Play in editor total start time 0,18 seconds.
+[2021.11.18-14.52.39:551][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-14.52.39:551][520]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.11.18-14.52.39:552][520]LogSlate: Window 'puzzleBomb Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.18-14.52.39:556][520]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-14.52.39:557][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.52.39:564][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-14.52.39:569][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.52.39:616][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-14.52.39:616][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-14.52.39:617][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-14.52.39:627][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.11.18-14.52.39:651][521]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.11.18-14.52.42:178][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.18-14.52.42:244][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.18-14.52.42:349][669]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Level17C14F1C444B62B863C7859A98E459E1A.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap'
+[2021.11.18-14.52.42:374][669]AssetCheck: New page: Asset Save: Level1
+[2021.11.18-14.52.42:374][669]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.18-14.53.30:136][378]LogSlate: Took 0.022443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.18-14.53.49:711][547]BlueprintLog: New page: Compile Explosion
+[2021.11.18-14.53.49:778][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.11.18-14.53.50:377][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-14.53.50:392][579]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionC51A80DF4E2532B78EC911A8B38434E3.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-14.53.50:410][579]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-14.53.50:410][579]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-14.54.00:042][ 93]BlueprintLog: New page: Compile BPI_destructible
+[2021.11.18-14.54.00:112][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.11.18-14.54.00:674][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/BPI_destructible" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset" SILENT=true
+[2021.11.18-14.54.00:676][120]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BPI_destructible56EC5AA3418B4EE1C1C3039E303822BE.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset'
+[2021.11.18-14.54.00:696][120]AssetCheck: New page: Asset Save: BPI_destructible
+[2021.11.18-14.54.00:696][120]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_destructible.BPI_destructible
+[2021.11.18-14.55.24:167][313]LogContentBrowser: Deferred new asset file creation: Bomb2
+[2021.11.18-14.55.24:188][313]LogContentBrowser: Creating deferred item: Bomb2
+[2021.11.18-14.55.28:042][545]LogContentBrowser: Attempting asset rename: Bomb2 -> KeyBomb
+[2021.11.18-14.55.28:121][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.11.18-14.55.28:127][545]LogContentBrowser: End creating deferred item Bomb2
+[2021.11.18-14.55.29:520][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-14.56.11:614][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bomb1.Bomb1
+[2021.11.18-14.56.25:807][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-14.56.25:816][791]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBomb1185A998483625184CF7A18EA62A3744.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-14.56.25:832][791]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-14.56.25:832][791]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-14.56.33:210][220]LogContentBrowser: Deferred new asset file creation: BombMat_Inst1
+[2021.11.18-14.56.33:259][220]LogContentBrowser: Creating deferred item: BombMat_Inst1
+[2021.11.18-14.56.43:166][811]LogContentBrowser: Attempting asset rename: BombMat_Inst1 -> KeyBombMat_Inst
+[2021.11.18-14.56.43:167][811]LogContentBrowser: End creating deferred item BombMat_Inst1
+[2021.11.18-14.56.44:820][909]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/KeyBombMat_Inst.KeyBombMat_Inst
+[2021.11.18-14.56.45:074][909]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.11.18-14.56.45:383][909]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.18-14.57.26:696][293]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.18-14.57.31:928][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/KeyBombMat_Inst" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Materials/KeyBombMat_Inst.uasset" SILENT=true
+[2021.11.18-14.57.31:977][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.11.18-14.57.32:052][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.18-14.57.32:058][600]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBombMat_Inst7B381AD846037E254638BA87DBCB9FE8.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Materials/KeyBombMat_Inst.uasset'
+[2021.11.18-14.57.32:075][600]AssetCheck: New page: Asset Save: KeyBombMat_Inst
+[2021.11.18-14.57.32:075][600]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/KeyBombMat_Inst.KeyBombMat_Inst
+[2021.11.18-14.57.33:103][655]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-14.57.33:103][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-14.57.43:875][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-14.57.43:883][180]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBombDDDEB7484883138B827C808522768E77.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-14.57.43:900][180]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-14.57.43:900][180]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-14.58.51:981][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-14.58.51:989][316]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBomb0A5E15EF4231E8087B947BBCBF8B7328.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-14.58.52:006][316]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-14.58.52:006][316]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-14.59.03:829][  8]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.11.18-14.59.03:844][  8]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.11.18-14.59.09:440][344]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> BombType
+[2021.11.18-14.59.09:490][344]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.11.18-14.59.43:959][169]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/BombType.BombType
+[2021.11.18-15.00.09:928][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BombType" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BombType.uasset" SILENT=true
+[2021.11.18-15.00.09:929][701]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BombTypeBCA8B51E4B222865198A8198E2D95FF0.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BombType.uasset'
+[2021.11.18-15.00.09:945][701]AssetCheck: New page: Asset Save: BombType
+[2021.11.18-15.00.09:945][701]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/BombType.BombType
+[2021.11.18-15.00.57:888][509]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.00.58:012][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2021.11.18-15.00.58:685][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.00.58:702][535]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionB35434044F00706E7FBBD1BDC196A78E.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.00.58:720][535]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.00.58:720][535]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.02.14:372][866]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.02.14:468][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.11.18-15.02.15:136][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.02.15:151][892]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion0A7009814847E54EE31869926899125E.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.02.15:169][892]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.02.15:169][892]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.03.02:170][540]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.03.02:257][540]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.11.18-15.03.02:963][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.03.02:979][566]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion46E62FF74B6F18F960DE7E99506449B5.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.03.02:996][566]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.03.02:996][566]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.03.56:375][735]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.03.56:465][735]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2021.11.18-15.03.57:206][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.03.57:233][763]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionB197EBC8476D4CB1094464A7C633522C.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.03.57:251][763]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.03.57:251][763]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.04.37:073][ 86]BlueprintLog: New page: Compile KeyBomb
+[2021.11.18-15.04.37:155][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.11.18-15.04.37:823][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-15.04.37:834][117]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBomb3ABF869042C218B504353DA0D2D0D9DD.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-15.04.37:850][117]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-15.04.37:850][117]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-15.05.09:213][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-15.05.09:223][981]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBombDAD9B3894C5FB33DF1492AACC6F4A248.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-15.05.09:240][981]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-15.05.09:240][981]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-15.05.15:107][324]BlueprintLog: New page: Compile KeyBomb
+[2021.11.18-15.05.15:190][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.11.18-15.05.15:772][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-15.05.15:783][352]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBombD389A9BE4072FCC264A020B1F21D2A94.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-15.05.15:799][352]AssetCheck: New page: Asset Save: KeyBomb
+[2021.11.18-15.05.15:799][352]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-15.05.41:028][789]BlueprintLog: New page: Compile Bomb1
+[2021.11.18-15.05.41:114][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.11.18-15.05.41:710][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset" SILENT=true
+[2021.11.18-15.05.41:720][816]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Bomb177674E8F4B2C5DB3500B9BA6BC5AAE24.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset'
+[2021.11.18-15.05.41:737][816]AssetCheck: New page: Asset Save: Bomb1
+[2021.11.18-15.05.41:737][816]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bomb1.Bomb1
+[2021.11.18-15.05.44:229][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset" SILENT=true
+[2021.11.18-15.05.44:239][960]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Bomb1ECE3B575441FC598978ACDAECD52A3EE.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset'
+[2021.11.18-15.05.44:260][960]AssetCheck: New page: Asset Save: Bomb1
+[2021.11.18-15.05.44:260][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bomb1.Bomb1
+[2021.11.18-15.05.50:876][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bomb1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset" SILENT=true
+[2021.11.18-15.05.50:886][347]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Bomb15709A7ED40F00C3B9624AE960DADF0D3.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Bomb1.uasset'
+[2021.11.18-15.05.50:901][347]AssetCheck: New page: Asset Save: Bomb1
+[2021.11.18-15.05.50:901][347]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Bomb1.Bomb1
+[2021.11.18-15.06.00:018][876]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.06.00:107][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.11.18-15.06.00:767][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.06.00:783][902]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionFAD640C944A6086E5708848C19F4DFB0.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.06.00:799][902]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.06.00:799][902]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.06.30:823][675]BlueprintLog: New page: Compile BPI_destructible
+[2021.11.18-15.06.30:911][675]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.11.18-15.06.31:442][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/BPI_destructible" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset" SILENT=true
+[2021.11.18-15.06.31:450][697]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BPI_destructible58E0684C49D545C2D1DC84A7D6047140.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset'
+[2021.11.18-15.06.31:467][697]AssetCheck: New page: Asset Save: BPI_destructible
+[2021.11.18-15.06.31:467][697]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_destructible.BPI_destructible
+[2021.11.18-15.06.50:265][799]BlueprintLog: New page: Compile Explosion
+[2021.11.18-15.06.50:349][799]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.11.18-15.06.50:928][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.06.50:945][824]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion91649DD44B3821D181DAD58F959FA9CF.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.06.50:961][824]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.06.50:961][824]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.10.22:440][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.10.22:456][411]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Explosion6996A72641F5087A137CEBBA2A8B2920.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.10.22:475][411]AssetCheck: New page: Asset Save: Explosion
+[2021.11.18-15.10.22:476][411]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.10.48:210][863]LogContentBrowser: Deferred new asset file creation: BP_destructible_Box1
+[2021.11.18-15.10.48:230][863]LogContentBrowser: Creating deferred item: BP_destructible_Box1
+[2021.11.18-15.10.59:851][561]LogContentBrowser: Attempting asset rename: BP_destructible_Box1 -> BP_StrongBox
+[2021.11.18-15.10.59:911][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.11.18-15.10.59:917][561]LogContentBrowser: End creating deferred item BP_destructible_Box1
+[2021.11.18-15.11.12:536][311]LogContentBrowser: Attempting asset rename: BombInactive -> BP_BombInactive
+[2021.11.18-15.11.12:614][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.BP_BombInactive:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:614][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.BP_BombInactive_C' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:615][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.SKEL_BP_BombInactive_C' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:615][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.BP_BombInactive_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:615][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.SKEL_BP_BombInactive_C:BndEvt__BombInactive_StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:615][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.SKEL_BP_BombInactive_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:615][311]LogMetaData: Removing '/Game/Blueprints/BP_BombInactive.SKEL_BP_BombInactive_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BombInactive.PackageMetaData'
+[2021.11.18-15.11.12:664][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BombInactive" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_BombInactive.uasset" SILENT=true
+[2021.11.18-15.11.12:682][311]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_BombInactive2B90A52B4818FC4B1E76218795AF60AE.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_BombInactive.uasset'
+[2021.11.18-15.11.12:683][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BombInactive" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BombInactive.uasset" SILENT=true
+[2021.11.18-15.11.12:710][311]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BombInactiveD06F4F994DA3127FA3C1A59B35DE8878.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BombInactive.uasset'
+[2021.11.18-15.11.12:786][311]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.11.12:787][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BombInactive.BP_BombInactive
+[2021.11.18-15.11.12:787][311]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BombInactive.BombInactive
+[2021.11.18-15.11.12:787][311]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BombInactive.Default__BombInactive_C
+[2021.11.18-15.11.12:787][311]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BombInactive.BombInactive_C
+[2021.11.18-15.11.22:046][849]LogContentBrowser: Attempting asset rename: Bomb1 -> BP_Bomb1
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.BP_Bomb1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.BP_Bomb1_C' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.BP_Bomb1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.SKEL_BP_Bomb1_C' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.SKEL_BP_Bomb1_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.SKEL_BP_Bomb1_C:BoomBoom' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.SKEL_BP_Bomb1_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:094][849]LogMetaData: Removing '/Game/Blueprints/BP_Bomb1.BP_Bomb1_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Bomb1.PackageMetaData'
+[2021.11.18-15.11.22:141][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bomb1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb1.uasset" SILENT=true
+[2021.11.18-15.11.22:151][849]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_Bomb16C2B7F804D23854AF67A6B82D235A765.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb1.uasset'
+[2021.11.18-15.11.22:297][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.11.18-15.11.22:359][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.18-15.11.22:405][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.18-15.11.22:462][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset" SILENT=true
+[2021.11.18-15.11.22:485][849]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Character_BPC076A64B4546E7C7907F9EBDEDDF044A.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset'
+[2021.11.18-15.11.22:543][849]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.11.22:543][849]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bomb1.BP_Bomb1
+[2021.11.18-15.11.22:543][849]LogContentValidation: Display: Validating Blueprint /Game/Character/Character_BP.Character_BP
+[2021.11.18-15.11.28:111][163]LogContentBrowser: Attempting asset rename: BP_Bomb1 -> BP_Bomb1
+[2021.11.18-15.11.52:037][590]LogContentBrowser: Attempting asset rename: BP_Bomb1 -> BP_Bomb
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.BP_Bomb_C' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.BP_Bomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.SKEL_BP_Bomb_C' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.SKEL_BP_Bomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.SKEL_BP_Bomb_C:BoomBoom' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.SKEL_BP_Bomb_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.BP_Bomb:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:063][590]LogMetaData: Removing '/Game/Blueprints/BP_Bomb.BP_Bomb:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Bomb1.PackageMetaData'
+[2021.11.18-15.11.52:095][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset" SILENT=true
+[2021.11.18-15.11.52:104][590]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_BombF5421E394DD6E2E1FC1EBBBDEC7AE3A5.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset'
+[2021.11.18-15.11.52:233][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.11.18-15.11.52:289][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.18-15.11.52:337][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.18-15.11.52:400][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Character_BP" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset" SILENT=true
+[2021.11.18-15.11.52:422][590]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Character_BP5D7DC49E4F0D57FA31822BAF9B199F80.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Character/Character_BP.uasset'
+[2021.11.18-15.11.52:477][590]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.11.52:477][590]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bomb.BP_Bomb
+[2021.11.18-15.11.52:477][590]LogContentValidation: Display: Validating Blueprint /Game/Character/Character_BP.Character_BP
+[2021.11.18-15.11.57:562][876]LogContentBrowser: Attempting asset rename: BombType -> BombType
+[2021.11.18-15.12.14:411][877]LogContentBrowser: Attempting asset rename: BombType -> E_BombType
+[2021.11.18-15.12.14:436][877]LogMetaData: Removing '/Game/Blueprints/E_BombType.E_BombType' ref from Metadata '/Game/Blueprints/BombType.PackageMetaData'
+[2021.11.18-15.12.14:453][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/E_BombType" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/E_BombType.uasset" SILENT=true
+[2021.11.18-15.12.14:454][877]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/E_BombTypeF8D65D04426352A2C91E689E200FE80D.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/E_BombType.uasset'
+[2021.11.18-15.12.14:569][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.11.18-15.12.14:626][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.11.18-15.12.14:671][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.11.18-15.12.14:690][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interfaces/BPI_destructible" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset" SILENT=true
+[2021.11.18-15.12.14:692][877]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BPI_destructibleF49180E748E72EDEF3FA07AB20C39655.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Interfaces/BPI_destructible.uasset'
+[2021.11.18-15.12.14:726][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset" SILENT=true
+[2021.11.18-15.12.14:742][877]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/ExplosionDB0A63CC486553932B501A951BC0018C.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/Explosion.uasset'
+[2021.11.18-15.12.14:776][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-15.12.14:786][877]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBombEB07AE4240A652E8F34A84BE4FD8EA46.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-15.12.14:821][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset" SILENT=true
+[2021.11.18-15.12.14:830][877]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_BombFE17AD5F4A22271A985639AD4F18A4F9.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset'
+[2021.11.18-15.12.14:887][877]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.12.14:887][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Interfaces/BPI_destructible.BPI_destructible
+[2021.11.18-15.12.14:887][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Explosion.Explosion
+[2021.11.18-15.12.14:887][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bomb.BP_Bomb
+[2021.11.18-15.12.14:887][877]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-15.12.14:887][877]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/E_BombType.E_BombType
+[2021.11.18-15.12.20:716][206]LogContentBrowser: Attempting asset rename: Explosion -> BP_Explosion
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion_C' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:SetBombType' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:DestroyComponent' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:BndEvt__Explosion_ExplosionRadiusPhysical_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.SKEL_BP_Explosion_C' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion_C:SetBombType' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:733][206]LogMetaData: Removing '/Game/Blueprints/BP_Explosion.BP_Explosion:SetBombType.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Explosion.PackageMetaData'
+[2021.11.18-15.12.20:765][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Explosion" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Explosion.uasset" SILENT=true
+[2021.11.18-15.12.20:782][206]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_ExplosionCAB184284DB41C61C871708369A4FF75.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Explosion.uasset'
+[2021.11.18-15.12.20:901][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.11.18-15.12.20:962][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.18-15.12.21:007][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.11.18-15.12.21:067][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset" SILENT=true
+[2021.11.18-15.12.21:077][206]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/KeyBomb52C4AA674836C6B8B0488FA1416CA821.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/KeyBomb.uasset'
+[2021.11.18-15.12.21:111][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset" SILENT=true
+[2021.11.18-15.12.21:120][206]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_Bomb279DC93D4AC7C3F0D93C1DAC7BC3FED6.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_Bomb.uasset'
+[2021.11.18-15.12.21:176][206]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.12.21:176][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Explosion.BP_Explosion
+[2021.11.18-15.12.21:176][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bomb.BP_Bomb
+[2021.11.18-15.12.21:176][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/KeyBomb.KeyBomb
+[2021.11.18-15.12.26:547][515]LogContentBrowser: Attempting asset rename: KeyBomb -> BP_KeyBomb
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.SKEL_BP_KeyBomb_C' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.SKEL_BP_KeyBomb_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.BP_KeyBomb_C' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.SKEL_BP_KeyBomb_C:BoomBoom' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.BP_KeyBomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:565][515]LogMetaData: Removing '/Game/Blueprints/BP_KeyBomb.SKEL_BP_KeyBomb_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/KeyBomb.PackageMetaData'
+[2021.11.18-15.12.26:596][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_KeyBomb" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_KeyBomb.uasset" SILENT=true
+[2021.11.18-15.12.26:606][515]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_KeyBombBC5003594F443424663E01B4A0F537F7.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_KeyBomb.uasset'
+[2021.11.18-15.12.26:732][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.11.18-15.12.26:788][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.18-15.12.26:834][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.18-15.12.26:882][515]AssetCheck: New page: Asset Save: BP_KeyBomb
+[2021.11.18-15.12.26:882][515]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_KeyBomb.BP_KeyBomb
+[2021.11.18-15.12.32:948][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.18-15.12.32:998][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.11.18-15.12.33:106][870]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Level158EE4F704E58351320127A83B894FDFD.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap'
+[2021.11.18-15.12.33:126][870]AssetCheck: New page: Asset Save: Level1
+[2021.11.18-15.12.33:126][870]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.18-15.12.49:954][741]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_StrongBox.BP_StrongBox
+[2021.11.18-15.12.51:859][822]BlueprintLog: New page: Compile BP_StrongBox
+[2021.11.18-15.12.51:948][822]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.11.18-15.12.52:031][822]LogSlate: Took 0.052487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.18-15.12.52:548][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StrongBox" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset" SILENT=true
+[2021.11.18-15.12.52:561][848]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_StrongBoxEA1F4F5F4D90BD4A50359B80191A9AFD.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset'
+[2021.11.18-15.12.52:577][848]AssetCheck: New page: Asset Save: BP_StrongBox
+[2021.11.18-15.12.52:577][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_StrongBox.BP_StrongBox
+[2021.11.18-15.13.54:409][421]BlueprintLog: New page: Compile BP_StrongBox
+[2021.11.18-15.13.54:500][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.11.18-15.13.55:075][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StrongBox" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset" SILENT=true
+[2021.11.18-15.13.55:084][445]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_StrongBox5DAFEEF54DA7776F3D371D91CCD4ED9C.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset'
+[2021.11.18-15.13.55:101][445]AssetCheck: New page: Asset Save: BP_StrongBox
+[2021.11.18-15.13.55:101][445]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_StrongBox.BP_StrongBox
+[2021.11.18-15.14.13:621][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StrongBox" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset" SILENT=true
+[2021.11.18-15.14.13:629][491]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_StrongBox065C76A744001AA0978B39BE899F1712.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset'
+[2021.11.18-15.14.13:646][491]AssetCheck: New page: Asset Save: BP_StrongBox
+[2021.11.18-15.14.13:646][491]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_StrongBox.BP_StrongBox
+[2021.11.18-15.14.34:047][635]LogContentBrowser: Deferred new asset file creation: BoxMatTemp1
+[2021.11.18-15.14.34:079][635]LogContentBrowser: Creating deferred item: BoxMatTemp1
+[2021.11.18-15.14.43:253][186]LogContentBrowser: Attempting asset rename: BoxMatTemp1 -> StrongBoxMatTemp
+[2021.11.18-15.14.43:257][186]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: FAF9E13C46538362A5B7575A264F52EA17D5CD99), compiling. 
+[2021.11.18-15.14.43:374][186]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.11.18-15.14.43:375][186]LogContentBrowser: End creating deferred item BoxMatTemp1
+[2021.11.18-15.14.43:386][187]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.11.18-15.14.43:386][187]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.11.18-15.14.43:386][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.11.18-15.14.43:386][187]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.18-15.14.43:386][187]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.11.18-15.14.44:686][256]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/StrongBoxMatTemp.StrongBoxMatTemp
+[2021.11.18-15.14.44:710][256]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 54CD9E162ADF7D2C5F07D097096D94AEF5E6CD8A), compiling. 
+[2021.11.18-15.14.44:876][256]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: C22596EFEF6EF6CDB08571F80A3A5EE5AC9F8CB8), compiling. 
+[2021.11.18-15.14.44:887][256]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: E2076F82F651FD5D3DEB14C7F94D05390EC7A332), compiling. 
+[2021.11.18-15.14.44:890][256]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A1264A91EBA65712ECF00DC8137F815EB25D2697), compiling. 
+[2021.11.18-15.14.44:904][256]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.18-15.14.45:242][260]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.18-15.14.46:557][306]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.11.18-15.14.46:557][306]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.18-15.14.46:595][306]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.18-15.14.46:595][306]LogShaderCompilers: Display: Total job queries 38, among them cache hits 0 (0.00%)
+[2021.11.18-15.14.46:595][306]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.11.18-15.14.46:595][306]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.18-15.14.46:595][306]LogShaderCompilers: Display: ================================================
+[2021.11.18-15.14.46:634][308]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.14.47:526][339]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.11.18-15.14.47:526][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.18-15.14.49:811][429]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.18-15.14.49:811][429]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.18-15.14.49:811][429]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-15.14.49:811][429]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.14.58:569][920]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: BF7A72294477D9466D0642F35B4A633187E8758A), compiling. 
+[2021.11.18-15.14.58:572][920]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F5237850CC1A55ACE847AF9F4E52CB4F507C0B97), compiling. 
+[2021.11.18-15.14.58:577][920]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4EA1FB358EEFDB2638A2A5268383D1230B16A5E3), compiling. 
+[2021.11.18-15.14.58:580][920]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 54C0A1829C508523FE34BE77033C1BD41D492720), compiling. 
+[2021.11.18-15.14.58:581][920]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 50CDC1518CA66342F51AFF4CA5C060D2490D8BC6), compiling. 
+[2021.11.18-15.14.58:584][920]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 5C7C0A40B31ED0C997CC4F5916B18E8FBD9C068E), compiling. 
+[2021.11.18-15.14.58:584][920]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.18-15.14.58:596][920]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.18-15.14.58:637][922]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.14.58:666][923]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.18-15.14.58:666][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.18-15.14.58:666][923]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-15.14.58:666][923]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.15.11:315][648]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: ECA0CEBD3F40EBF6C6B2E89C25B903D66222A27D), compiling. 
+[2021.11.18-15.15.11:317][648]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D0EB4EDD7EE4E713DAE62E0FE69D009EACCC546D), compiling. 
+[2021.11.18-15.15.11:322][648]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 17E7F15A354D032583475A47FD0D8A27654A0CC0), compiling. 
+[2021.11.18-15.15.11:324][648]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 6DB4832AF5614F48F8329E30928AE1E2AB480E9A), compiling. 
+[2021.11.18-15.15.11:327][648]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BDE0502578931E4A0276336FA2969B43D60D8061), compiling. 
+[2021.11.18-15.15.11:328][648]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 4566014A25B78F9944F3294B1F6D2D63C1A01823), compiling. 
+[2021.11.18-15.15.11:330][648]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.18-15.15.11:341][648]MaterialEditorStats: Texture samplers: 0/16
+[2021.11.18-15.15.11:375][650]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.15.11:403][651]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.18-15.15.11:403][651]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.18-15.15.11:403][651]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-15.15.11:403][651]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-15.15.13:954][787]LogMaterialEditor: Saving and Compiling material StrongBoxMatTemp
+[2021.11.18-15.15.14:275][787]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 513F0F448ACE5F1D959FA3AD286A882D22B6F4CC), compiling. 
+[2021.11.18-15.15.14:307][787]LogMaterial: Display: Missing cached shadermap for StrongBoxMatTemp in PCD3D_SM5, Default, SM5 (DDC key hash: 2CF9B1622332A71FC9494850D637EFE4CA0F4C65), compiling. 
+[2021.11.18-15.15.14:378][787]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.11.18-15.15.14:538][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.18-15.15.14:631][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/StrongBoxMatTemp" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Materials/StrongBoxMatTemp.uasset" SILENT=true
+[2021.11.18-15.15.14:637][787]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/StrongBoxMatTemp02F754F64F04088637D25782AA6FFF51.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Materials/StrongBoxMatTemp.uasset'
+[2021.11.18-15.15.14:652][787]AssetCheck: New page: Asset Save: StrongBoxMatTemp
+[2021.11.18-15.15.14:652][787]LogContentValidation: Display: Validating Material /Game/Materials/StrongBoxMatTemp.StrongBoxMatTemp
+[2021.11.18-15.15.14:662][787]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.11.18-15.15.14:662][787]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.11.18-15.15.14:662][787]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-15.15.14:662][787]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.18-15.15.23:201][225]LogMaterialEditor: Saving and Compiling material StrongBoxMatTemp
+[2021.11.18-15.15.23:222][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/StrongBoxMatTemp" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Materials/StrongBoxMatTemp.uasset" SILENT=true
+[2021.11.18-15.15.23:224][225]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/StrongBoxMatTemp008107F74B486392579F3A86F7CE097B.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Materials/StrongBoxMatTemp.uasset'
+[2021.11.18-15.15.23:240][225]AssetCheck: New page: Asset Save: StrongBoxMatTemp
+[2021.11.18-15.15.23:240][225]LogContentValidation: Display: Validating Material /Game/Materials/StrongBoxMatTemp.StrongBoxMatTemp
+[2021.11.18-15.15.24:098][273]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-15.15.24:098][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-15.15.39:931][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_StrongBox" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset" SILENT=true
+[2021.11.18-15.15.39:938][128]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/BP_StrongBox6D70213C44A1BAB84E6CF0A619C66598.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Blueprints/BP_StrongBox.uasset'
+[2021.11.18-15.15.39:954][128]AssetCheck: New page: Asset Save: BP_StrongBox
+[2021.11.18-15.15.39:954][128]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_StrongBox.BP_StrongBox
+[2021.11.18-15.15.56:062][ 80]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.18-15.16.08:301][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.18-15.16.23:590][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.18-15.16.39:361][671]LogEditorViewport: Clicking on Actor (LMB): BP_StrongBox_C (BP_StrongBox)
+[2021.11.18-15.16.44:943][  2]LogEditorViewport: Clicking Background
+[2021.11.18-15.16.53:315][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.18-15.16.53:376][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.18-15.16.53:483][501]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Level1B7D1B7874A4D32D773D5A791EE46E23B.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap'
+[2021.11.18-15.16.53:509][501]AssetCheck: New page: Asset Save: Level1
+[2021.11.18-15.16.53:509][501]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.18-15.17.01:678][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.18-15.17.01:732][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.11.18-15.17.01:842][988]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Level1048B1DD94403A95593689984141F3678.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap'
+[2021.11.18-15.17.01:864][988]AssetCheck: New page: Asset Save: Level1
+[2021.11.18-15.17.01:865][988]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.18-15.17.07:058][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.18-15.17.07:110][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.11.18-15.17.07:216][292]LogSavePackage: Moving '../../../../../../Unreal Projects/puzzleBomb/Saved/Level141AA0C604F88A93CAAEE6897043DE5E1.tmp' to '../../../../../../Unreal Projects/puzzleBomb/Content/Maps/Level1.umap'
+[2021.11.18-15.17.07:241][292]AssetCheck: New page: Asset Save: Level1
+[2021.11.18-15.17.07:241][292]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2021.11.18-15.17.09:354][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.18-15.17.09:361][419]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.18-15.17.09:368][419]LogPlayLevel: [PlayLevel] Compiling BPI_destructible before play...
+[2021.11.18-15.17.09:391][419]LogPlayLevel: [PlayLevel] Compiling BP_Explosion before play...
+[2021.11.18-15.17.09:442][419]LogPlayLevel: [PlayLevel] Compiling BP_Bomb before play...
+[2021.11.18-15.17.09:491][419]LogPlayLevel: [PlayLevel] Compiling Character_BP before play...
+[2021.11.18-15.17.09:550][419]LogPlayLevel: [PlayLevel] Compiling BP_KeyBomb before play...
+[2021.11.18-15.17.09:586][419]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.11.18-15.17.09:648][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.11.18-15.17.09:649][419]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (6 blueprints)
+[2021.11.18-15.17.09:649][419]PIE: New page: PIE session: Level1 (18/11/2021, 15:17:09)
+[2021.11.18-15.17.09:649][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2021.11.18-15.17.09:683][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033575s)
+[2021.11.18-15.17.09:684][419]LogAIModule: Creating AISystem for world Level1
+[2021.11.18-15.17.09:684][419]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2021.11.18-15.17.09:684][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.034834s)
+[2021.11.18-15.17.09:739][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.18-15.17.09:740][419]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-15.17.09:740][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-15.17.09:740][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-15.17.09:741][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-15.17.09:741][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-15.17.09:741][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-15.17.09:741][419]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-15.17.09:744][419]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-15.17.09:744][419]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-15.17.09:761][419]LogAudioMixer: Display: Using Audio Device Altifalantes (Realtek High Definition Audio(SST))
+[2021.11.18-15.17.09:761][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-15.17.09:761][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-15.17.09:761][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-15.17.09:762][419]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-15.17.09:762][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-15.17.09:762][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-15.17.09:763][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-15.17.09:763][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-15.17.09:763][419]LogInit: FAudioDevice initialized.
+[2021.11.18-15.17.09:763][419]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2021.11.18-15.17.09:807][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-15.17.09:807][419]LogLoad: Game class is 'Bomber_GM_C'
+[2021.11.18-15.17.09:813][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2021.11.18-15.17.09
+[2021.11.18-15.17.09:814][419]LogWorld: Bringing up level for play took: 0.005341
+[2021.11.18-15.17.09:814][419]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.11.18-15.17.09:824][419]PIE: Server logged in
+[2021.11.18-15.17.09:826][419]PIE: Play in editor total start time 0,468 seconds.
+[2021.11.18-15.17.17:542][749]LogWindows: Error: === Critical error: ===
+[2021.11.18-15.17.17:543][749]LogWindows: Error: 
+[2021.11.18-15.17.17:543][749]LogWindows: Error: Fatal error!
+[2021.11.18-15.17.17:543][749]LogWindows: Error: 
+[2021.11.18-15.17.17:543][749]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000048
+[2021.11.18-15.17.17:543][749]LogWindows: Error: 
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5f83098 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb483c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb2433 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5f832da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb483c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4044 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5cd1894 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb3b63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe71e93ea UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe70d8dab UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe7629038 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe766f9d5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe76be249 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe7204db1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe71c0cf4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe71e517b UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe71ce870 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe7903e64 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe86d75fc UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fdbd59 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fde46f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5f832da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb483c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4c4d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb4044 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5cd1894 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbf5fb3b63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe71e93ea UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe83e96fe UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe8418109 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe7aff74d UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe472f1c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffbe50306e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4d787a0 UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4d90fbc UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4d910aa UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4d940cd UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4da5984 UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ff7f4da853a UE4Editor.exe!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffc40257034 KERNEL32.DLL!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: [Callstack] 0x00007ffc42242651 ntdll.dll!UnknownFunction []
+[2021.11.18-15.17.17:543][749]LogWindows: Error: 
+[2021.11.18-15.17.17:554][749]LogExit: Executing StaticShutdownAfterError
+[2021.11.18-15.17.17:560][749]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.11.18-15.17.17:560][749]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2021.11.18-15.17.17:560][749]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.11.18-15.17.17:677][749]Log file closed, 11/18/21 15:17:17
